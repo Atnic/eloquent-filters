@@ -1,11 +1,11 @@
 {
-  "name": "mohd-isa/eloquent-filters",
+  "name": "atnic/eloquent-filters",
   "description": "Laravel 5 Filterable Eloquents.",
   "keywords": [
     "laravel",
     "eloquent-filters"
   ],
-  "homepage": "https://github.com/mohd-isa/eloquent-filters",
+  "homepage": "https://github.com/atnic/eloquent-filters",
   "license": "MIT",
   "authors": [
     {
