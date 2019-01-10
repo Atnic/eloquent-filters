@@ -1,0 +1,27 @@
+{
+  "name": "mohd-isa/eloquent-filters",
+  "description": "Laravel 5 Filterable Eloquents.",
+  "keywords": [
+    "laravel",
+    "eloquent-filters"
+  ],
+  "homepage": "https://github.com/mohd-isa/eloquent-filters",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohammed Isa",
+      "email": "mohd.itcs@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.0",
+    "illuminate/support": "^5.5",
+    "illuminate/database": "^5.5",
+    "illuminate/contracts": "^5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Smartisan\\Filters\\": "src"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<?php
+
+namespace {NAMESPACE};
+
+use Smartisan\Filters\Filter;
+
+class {FILTER_NAME} extends Filter
+{
+    //
+}
